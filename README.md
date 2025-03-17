@@ -28,17 +28,50 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 
 **2º DAW Mañana**
 
-* **GRUPO 01: [PROYECTO]()** - Alumno(s)
+|Proyecto | Alumno(s)|
+|-----------------------------------------------------------------------------------| ------------------------------|
+| [Proyecto]()                                                                      |Alarcón Fortes Manuel |
+| [Proyecto]()                                                                      |Ávila Rosas Miguel Ángel |
+| [Proyecto]()                                                                      |Barnestein Martos Alejandro |
+| [Proyecto]()                                                                      |Sofía Béjar Rimoldi |
+| [Proyecto]()                                                                      |Alfonso Jesús Bravo Romo |
+| [Proyecto]()                                                                      |Francisco Javier Cabello Rueda |
+| [Proyecto]()                                                                      |Francisco Cedillo Serrato |
+| [Proyecto]()                                                                      |Juan Francisco Chacón Macías |
+| [Proyecto]()                                                                      |Juan Cid Benítez |
+| [Proyecto]()                                                                      |Sergio Gámez Ortega |
+| [Proyecto]()                                                                      |Pablo Gil Díaz |
+| [Proyecto]()                                                                      |Antonio Jesús Heredia Leiva |
+| [Proyecto]()                                                                      |Francisco Jiménez López |
+| [Proyecto]()                                                                      |Samuel Lapeira Pérez |
+| [Proyecto]()                                                                      |Gonzalo Lázaro Zambrano |
+| [Proyecto]()                                                                      |Álvaro Leiva García |
+| [Proyecto]()                                                                      |Álvaro López Guerrero |
+| [Proyecto]()                                                                      |Daniel de Poorter Vázquez |
+| [Proyecto]()                                                                      |Sergio Ramos Alarcón |
+| [Proyecto]()                                                                      |Alba Romero Almansa |
+| [Proyecto]()                                                                      |Ruyi Xia Ye |
 
 
-**2º DAW Tarde**
-* **GRUPO 01: [PROYECTO]()** - Alumno(s)
+### 2º DAM Tarde
+
+|Proyecto | Alumno(s)|
+| -----------------------------------------------------------------------------------| ------------------------------|
+| Grupo 1: The Enigma Casino | Alejandro Barrionuevo Rosado<br/> Raquel López Bermúdez <br/> José Molina Meléndez |
+| Grupo 2: PJ Arcade  | Fernando Jafet Sánchez Lagos <br/> Pablo Ruíz Domínguez |
+| Grupo 3: Trello/Notion con WS  |  Adrián Jiménez Santiago<br/> Elías Robles Ruiz |
+| Grupo 4: Spotify  | Miguel Ángel Platero Duque |
+| Grupo 5: Marketplace (Milanuncios/Wallapop)  | Enrique Capote Molina<br/>Juan Ignacio Ruiz Cosano<br/>Miguel García Alcalá |
+| Grupo 6: ???  |  Alonso Onsurbe López<br/>Iván Montes Gutiérrez |
+| Grupo 7: ???  | Christian Rodríguez Lara<br/>Kilian Méndez Ávila<br/>Yasir Bel Maalem Ouhadou Abdenour  |
+| Grupo 8: ???  | Giovanni Giove Meschian<br/>José Miguel Toro Canillas |
+
 
 ## 📝 Fechas a tener en cuenta
-* Anteproyecto: **TBD**
-* Revisión (checkpoint): **TBD**
-* Entrega de proyecto: **TBD**
-* Exposiciones: **TBD**
+* Anteproyecto: **31 de marzo**
+* Checkpoint:  **30 de abril**
+* Entrega: **13 de junio**
+* Exposiciones: **semana del 16 al 20 de junio** 
 
 ## ⏰ Cuadrante horario de las exposiciones
 

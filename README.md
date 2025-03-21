@@ -30,8 +30,8 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 
 |Proyecto | Alumno(s)|
 |-----------------------------------------------------------------------------------| ------------------------------|
-| [Proyecto]()                                                                      |Alarcón Fortes Manuel |
-| [Proyecto]()                                                                      |Ávila Rosas Miguel Ángel |
+| [Proyecto](https://github.com/CompiTrabajo2DAW/RETROTECA)                                                                      |Alarcón Fortes Manuel |
+| [Proyecto](https://github.com/CompiTrabajo2DAW/RETROTECA)                                                                      |Ávila Rosas Miguel Ángel |
 | [Proyecto]()                                                                      |Barnestein Martos Alejandro |
 | [Proyecto]()                                                                      |Sofía Béjar Rimoldi |
 | [Proyecto]()                                                                      |Alfonso Jesús Bravo Romo |

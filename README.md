@@ -30,8 +30,8 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 
 |Proyecto | Alumno(s)|
 |-----------------------------------------------------------------------------------| ------------------------------|
-| [Proyecto](https://github.com/CompiTrabajo2DAW/RETROTECA)                                                                      |Alarcón Fortes Manuel |
-| [Proyecto](https://github.com/CompiTrabajo2DAW/RETROTECA)                                                                      |Ávila Rosas Miguel Ángel |
+| [Proyecto](https://github.com/CompiTrabajo2DAW/RETROTECA)                         |Alarcón Fortes Manuel |
+| [Proyecto](https://github.com/CompiTrabajo2DAW/RETROTECA)                         |Ávila Rosas Miguel Ángel |
 | [Proyecto]()                                                                      |Barnestein Martos Alejandro |
 | [Proyecto]()                                                                      |Sofía Béjar Rimoldi |
 | [Proyecto]()                                                                      |Alfonso Jesús Bravo Romo |
@@ -40,7 +40,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      |Juan Francisco Chacón Macías |
 | [Proyecto]()                                                                      |Juan Cid Benítez |
 | [Proyecto]()                                                                      |Sergio Gámez Ortega |
-| [Proyecto]()                                                                      |Pablo Gil Díaz |
+| [Proyecto](https://github.com/envyx10/Pixela)                                     |Pablo Gil Díaz |
 | [Proyecto]()                                                                      |Antonio Jesús Heredia Leiva |
 | [Proyecto]()                                                                      |Francisco Jiménez López |
 | [Proyecto]()                                                                      |Samuel Lapeira Pérez |
@@ -50,7 +50,7 @@ La siguiente lista cuenta con los usuarios de GitHub de los profesores de cada t
 | [Proyecto]()                                                                      |Daniel de Poorter Vázquez |
 | [Proyecto]()                                                                      |Sergio Ramos Alarcón |
 | [Proyecto]()                                                                      |Alba Romero Almansa |
-| [Proyecto]()                                                                      |Ruyi Xia Ye |
+| [Proyecto](https://github.com/envyx10/Pixela)                                     |Ruyi Xia Ye |
 
 
 ### 2º DAM Tarde
